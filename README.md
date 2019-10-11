@@ -1,6 +1,6 @@
 # TeaMonkeyFruit.IdentityTokenProvider
 
-###A simple library for making authenticaiton requests to Okta using Client Credential Flow.
+### A simple library for making authenticaiton requests to Okta using Client Credential Flow.
 
 Code example:
 ```
