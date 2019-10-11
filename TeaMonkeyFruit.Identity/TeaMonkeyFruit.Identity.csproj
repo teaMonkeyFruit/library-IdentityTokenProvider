@@ -2,7 +2,11 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
-        <RootNamespace>Baseproject_records_netcore2_graphql.Identity</RootNamespace>
+        <RootNamespace>TeaMonkeyFruit.Identity</RootNamespace>
+        <PackageId>TeaMonkeyFruit.IdentityTokenProvider</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>TeaMonkeyFruit</Authors>
+		<Company>TeaMonkeyFruitCo</Company>
     </PropertyGroup>
 
     <ItemGroup>
